@@ -1,6 +1,8 @@
 # Crypto Sentiment Dashboard (v2)
 
-> **Version 2** is a redesign of [crypto-dashboard](https://github.com/Z3US-23/crypto-dashboard) with a trading-terminal interface: daily candlesticks, a sentiment gauge and sparklines. It is not deployed yet; the original v1 runs live [here](https://crypto-sentiment-dashboard-5vcjnk8vieydnlappdhzayy.streamlit.app/).
+> **Version 2** is a redesign of [crypto-dashboard](https://github.com/Z3US-23/crypto-dashboard) with a trading-terminal interface: daily candlesticks, a sentiment gauge and sparklines. The original v1 is also [live](https://crypto-sentiment-dashboard-5vcjnk8vieydnlappdhzayy.streamlit.app/).
+
+**🔗 Live dashboard: [crypto-dashboard-v2.streamlit.app](https://crypto-dashboard-v2-2nnqcnwrymsvysim2kh8oq.streamlit.app/)**
 
 **What are crypto news and Reddit saying about Bitcoin, Ethereum and Solana, and does the mood line up with the price?**
 
