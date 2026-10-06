@@ -4,8 +4,6 @@
 
 An automated data pipeline that collects crypto headlines and Reddit posts every 6 hours, scores their sentiment with NLP, and compares it with market prices in an interactive dashboard.
 
-**🔗 Live dashboard: [crypto-sentiment-dashboard.streamlit.app](https://crypto-sentiment-dashboard-5vcjnk8vieydnlappdhzayy.streamlit.app/)**
-
 ![Dashboard screenshot](assets/dashboard.png)
 
 ---
@@ -55,8 +53,8 @@ flowchart LR
 ## Run it locally
 
 ```bash
-git clone https://github.com/Z3US-23/crypto-dashboard.git
-cd crypto-dashboard
+git clone https://github.com/Z3US-23/crypto-dashboard-v2.git
+cd crypto-dashboard-v2
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (macOS/Linux: source .venv/bin/activate)
 pip install -r requirements.txt
@@ -68,7 +66,7 @@ streamlit run app.py            # open http://localhost:8501
 ## Project structure
 
 ```
-crypto-dashboard/
+crypto-dashboard-v2/
 ├── app.py                     # Streamlit dashboard
 ├── assets/theme.css           # dashboard styling (dark trading-terminal look)
 ├── .streamlit/config.toml     # Streamlit theme: colours and font

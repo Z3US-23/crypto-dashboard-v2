@@ -27,7 +27,7 @@ MIN_DAYS_FOR_CORRELATION = 10
 MIN_ITEMS_PER_DAY = 5
 LOW_SAMPLE_OPACITY = 0.3
 MIN_ITEMS_FOR_COMPARISON = 20
-REPO_URL = "https://github.com/Z3US-23/crypto-dashboard"
+REPO_URL = "https://github.com/Z3US-23/crypto-dashboard-v2"
 
 # Gold means up (rising price, positive mood) and pink means down, everywhere on the page.
 UP, DOWN, NEUTRAL = "#f6c56f", "#f0569c", "#7c84b8"
