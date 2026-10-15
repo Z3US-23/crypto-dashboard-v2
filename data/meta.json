@@ -1,18 +1,18 @@
 {
-  "last_run": "2026-10-15T04:35:10+00:00",
-  "new_rows": 37,
-  "total_rows": 2344,
+  "last_run": "2026-10-15T11:25:45+00:00",
+  "new_rows": 45,
+  "total_rows": 2389,
   "sources": {
-    "CoinDesk": "ok (15)",
-    "Cointelegraph": "ok (11)",
-    "Decrypt": "ok (16)",
+    "CoinDesk": "ok (12)",
+    "Cointelegraph": "ok (14)",
+    "Decrypt": "ok (69)",
     "Google News BTC": "ok (100)",
     "Google News ETH": "ok (100)",
     "Google News SOL": "ok (100)",
     "r/Bitcoin": "ok (100)",
     "r/ethereum": "ok (100)",
     "r/solana": "ok (100)",
-    "r/CryptoCurrency": "ok (33)",
-    "Yahoo Finance": "ok (537)"
+    "r/CryptoCurrency": "ok (32)",
+    "Yahoo Finance": "ok (540)"
   }
 }
