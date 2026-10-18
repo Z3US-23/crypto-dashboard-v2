@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-10-18T11:01:22+00:00",
-  "new_rows": 19,
-  "total_rows": 2845,
+  "last_run": "2026-10-18T15:50:22+00:00",
+  "new_rows": 29,
+  "total_rows": 2874,
   "sources": {
-    "CoinDesk": "ok (9)",
-    "Cointelegraph": "ok (10)",
-    "Decrypt": "ok (75)",
+    "CoinDesk": "ok (10)",
+    "Cointelegraph": "ok (9)",
+    "Decrypt": "ok (73)",
     "Google News BTC": "ok (100)",
     "Google News ETH": "ok (100)",
     "Google News SOL": "ok (100)",
