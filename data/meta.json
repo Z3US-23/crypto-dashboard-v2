@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-10-18T20:39:50+00:00",
-  "new_rows": 31,
-  "total_rows": 2905,
+  "last_run": "2026-10-19T04:37:22+00:00",
+  "new_rows": 32,
+  "total_rows": 2937,
   "sources": {
     "CoinDesk": "ok (7)",
     "Cointelegraph": "ok (9)",
@@ -12,7 +12,7 @@
     "r/Bitcoin": "ok (100)",
     "r/ethereum": "ok (100)",
     "r/solana": "ok (100)",
-    "r/CryptoCurrency": "ok (32)",
-    "Yahoo Finance": "ok (360)"
+    "r/CryptoCurrency": "ok (31)",
+    "Yahoo Finance": "ok (537)"
   }
 }
