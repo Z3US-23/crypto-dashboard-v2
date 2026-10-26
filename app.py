@@ -607,6 +607,5 @@ render(
     '<div class="footer">'
     + (f"Sources unavailable in the latest run: {', '.join(failed)}<br>" if failed else "")
     + f'Built by Ahmad Ammar · <a href="{REPO_URL}" target="_blank" rel="noopener">Source code</a> · '
-    '<a href="https://z3us-23.github.io/Ahmad-Ammar.github.io/" target="_blank" rel="noopener">Portfolio</a> · '
     '<a href="https://github.com/Z3US-23" target="_blank" rel="noopener">GitHub</a></div>'
 )
