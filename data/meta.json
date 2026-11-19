@@ -1,10 +1,10 @@
 {
-  "last_run": "2026-11-18T20:28:34+00:00",
-  "new_rows": 120,
-  "total_rows": 9199,
+  "last_run": "2026-11-19T07:20:32+00:00",
+  "new_rows": 52,
+  "total_rows": 9251,
   "sources": {
-    "CoinDesk": "ok (9)",
-    "Cointelegraph": "ok (18)",
+    "CoinDesk": "ok (10)",
+    "Cointelegraph": "ok (13)",
     "Decrypt": "ok (18)",
     "Google News BTC": "ok (100)",
     "Google News ETH": "ok (100)",
@@ -13,6 +13,6 @@
     "r/ethereum": "failed: HTTPError",
     "r/solana": "failed: HTTPError",
     "r/CryptoCurrency": "failed: HTTPError",
-    "Yahoo Finance": "ok (540)"
+    "Yahoo Finance": "ok (360)"
   }
 }
